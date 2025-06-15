@@ -1,7 +1,9 @@
-```markdown
+
 # Gerador de PDF a partir de HTML
 
 Este projeto permite converter arquivos HTML ou código HTML em string para PDF em formato A4, mantendo o estilo do HTML. Você pode usar tanto uma interface gráfica simples quanto a linha de comando.
+
+---
 
 ## 🚀 Como Usar
 
@@ -44,4 +46,4 @@ python gerar_pdf.py --string "<h1>Olá, mundo!</h1>" --output caminho/saida.pdf
 ---
 
 Se precisar de mais opções ou personalizações, abra uma issue ou peça ajuda!
-```
+
